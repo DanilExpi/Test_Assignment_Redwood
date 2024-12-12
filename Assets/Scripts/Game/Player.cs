@@ -1,6 +1,5 @@
 using Scripts.Sound;
 using System.Collections;
-using UnityEditorInternal;
 using UnityEngine;
 
 namespace Scripts.Game.Game
